@@ -1,0 +1,16 @@
+{
+  "short_name": "My House",
+  "name": "My House - Room & Roommate Discovery",
+  "icons": [
+    {
+      "src": "/house-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F766E",
+  "theme_color": "#0F766E",
+  "display": "standalone"
+}
+
